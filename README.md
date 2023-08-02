@@ -1,4 +1,4 @@
-# VictorChagas GuilhermeFreitas
+# GuilhermeFreitas
 # Caça ao One Piece
 
 
